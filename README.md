@@ -63,27 +63,10 @@ In a Python script `train_classifier.py` , write a machine learning pipeline tha
 #### 3. Flask Web App
 project will include a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data.
 
-#### Features
-
-1. University Rank
-2. Name of University
-3. Location
-4. No of student
-5. No of student per staff
-6. International Student
-7. Female :Male Ratio
-8. OverAll Score
-9. Teaching Score
-10. Research Score
-11. Citations Score
-12. Industry Income Score
-13. International Outlook Score
-
-Details of the dataset can be found [here](https://www.timeshighereducation.com/student/advice/world-university-rankings-explained)
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the Medium blog available [here](https://medium.com/@kimjohnson9906/what-is-a-good-university-to-you-5f040a195b01).
+The main findings of the code can be found at the web app.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
