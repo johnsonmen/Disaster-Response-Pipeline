@@ -63,14 +63,12 @@ In a Python script `train_classifier.py` , write a machine learning pipeline tha
 #### 3. Flask Web App
 The project will include a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data.
 
-
 ## Results<a name="results"></a>
-
 The main findings of the code can be found at the web app.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+The credit should be given to Udacity.
 
-The credit should be given to the collaborators for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/datasets/alitaqi000/world-university-rankings-2023) or the source [here][https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking]
 ### Instructions <a name="instrution"></a>
 1. Run the following commands in the project's root directory to set up your database and model.
 
