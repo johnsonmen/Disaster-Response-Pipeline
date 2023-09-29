@@ -61,7 +61,7 @@ In a Python script `train_classifier.py` , write a machine learning pipeline tha
 - Exports the final model as a pickle file
 
 #### 3. Flask Web App
-project will include a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data.
+The project will include a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data.
 
 
 ## Results<a name="results"></a>
