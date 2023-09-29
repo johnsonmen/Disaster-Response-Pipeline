@@ -79,5 +79,4 @@ The credit should be given to Udacity.
 
 2. Go to `app` directory
 
-3. Run
-4. the app: `python run.py`
+3. Run the app: `python run.py`
